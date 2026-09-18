@@ -17,4 +17,5 @@ CMake 不是编译器
 代码多了，项目大了后，每次都重新编译，第一很慢，时间不等人，第二浪费能源，一些编译是白干的
 
 
-![alt text](60fdf209ae1e615dc7c36809e5e3eda2.jpg)
+
+<img width="1706" height="1279" alt="95ea5d9924d40252ac0eef46b8d41dd6" src="https://github.com/user-attachments/assets/3021260c-bfdf-4710-a3b9-e4e50a90311f" />
